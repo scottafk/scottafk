@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @scottafk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Call me full-breadth developer or full-time open-sourcerer. 
+- 🌱 I love to inspire people and create things that are usful to others.
+- 📫 My main universes are Go and Web3, but thanks to agentic engineering, any language is fair game.
 
-<!---
-scottafk/scottafk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💞️ ✨ Thanks for your support!✨ 
